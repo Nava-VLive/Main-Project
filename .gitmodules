@@ -1,0 +1,3 @@
+[submodule "Secundary-Project"]
+	path = Secundary-Project
+	url = https://github.com/VirtuallyLive-AGP/Secundary-Project.git
